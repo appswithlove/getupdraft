@@ -7,7 +7,7 @@ Welcome to the repository for [Updraft App Distribution and Beta testing](https:
  1. [Roadmap](https://github.com/appswithlove/getupdraft/wiki/roadmap)
  
 ## Resources
-1. Repositories
+1. [Repositories](https://github.com/appswithlove/getupdraft/wiki/Repositories)
 
 # Terms & Privacy
 
