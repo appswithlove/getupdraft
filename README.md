@@ -6,7 +6,7 @@ Welcome to the repository for [Updraft App Distribution and Beta testing](https:
 ## Planning
  1. Roadmap
  
-## Ressources
+## Resources
 1. Repositories
 
 # Terms & Privacy
