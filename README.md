@@ -4,7 +4,7 @@ Welcome to the repository for [Updraft App Distribution and Beta testing](https:
 # Contents
 
 ## Planning
- 1. [Planning Process](https://github.com/appswithlove/getupdraft/wiki/Planningprocess)
+ 1. [Planning Process](https://github.com/appswithlove/getupdraft/wiki/Planning-Process)
  
  2. [Roadmap](https://github.com/appswithlove/getupdraft/wiki/roadmap)
  
